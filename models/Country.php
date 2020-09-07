@@ -1,10 +1,9 @@
 <?php
 
-
 namespace app\models;
 
+use yii\db\ActiveRecord;
 
-class Country
+class Country extends ActiveRecord
 {
-
 }
